@@ -1,0 +1,14 @@
+﻿# Build outputs and binaries
+bin/
+obj/
+*.exe
+*.o
+*.out
+
+# Code::Blocks workspace and session files
+*.depend
+*.layout
+
+# OS generated files
+Thumbs.db
+.DS_Store
